@@ -1,8 +1,8 @@
-![image](https://github.com/user-attachments/assets/dc4105b1-cb7c-4cac-b90b-369c5363da42)
+
 ## Hi there 👋
 ![Metrics](https://metrics.lecoq.io/xicheng2003?template=classic&languages=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&config.timezone=Asia%2FShanghai)
 
-
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xicheng2003&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 <!--
 **xicheng2003/xicheng2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
