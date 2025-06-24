@@ -1,14 +1,34 @@
+### Hi there👋
 
-## Hi there 👋
+**About me**
 
 - 🧑‍🎓 I’m Michael, a student in college. 
+
 - 🌱 I’m interested in coding. 
+
 - 🌍 I’m currently learning python. 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=xicheng2003.xicheng2003&left_color=green&right_color=red)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xicheng2003&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![xicheng2003's GitHub stats](https://github-readme-stats.vercel.app/api?username=xicheng2003&show_icons=true)
+### 📊 My GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" style="height: 12;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xicheng2003&layout=compact" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" style="height: 12;" src="https://github-readme-stats.vercel.app/api?username=xicheng2003&show_icons=true&layout=compact" />
+  </a>
+</p>
+
+---
+
+### 📫 Connect with Me
+
+Blog: [morlight.top](https://morlight.top)
+
+<p align="left">
+  </p>
 
 <!--
 **xicheng2003/xicheng2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
